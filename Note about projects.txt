@@ -1,0 +1,16 @@
+//  to make the element move up we useing rotate (+ value deg) or move down (- value deg) 
+     transform: rotate(45deg)translate(5px, 10px);
+
+// to make border-radius from buttton for image we use 
+    border-radius: 0 0 50% 50% / 0 0 100% 100%;
+
+// to make overlay on image we use 
+
+ filter: brightness(.3);
+
+// to make overlay drowp form top to down we use 
+    transform: translate(-50%, -200px);
+
+// to make change element ranome we use mix it up liberary
+
+// to set map we use the iframe google map in google search
